@@ -13,7 +13,7 @@ body {
 .header img {
   width: 100%;
 }
-.header .more-inf {
+.header .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -22,12 +22,12 @@ body {
     text-align: center;
   }
 }
-.centered-main-page-element {
+.centering-wrapper {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
-#top-section-for-adding-element-to-list {
+#new-task-section {
   margin: 1rem auto;
 }
 .task-label,
