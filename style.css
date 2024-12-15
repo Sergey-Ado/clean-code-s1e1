@@ -27,6 +27,9 @@ body {
   width: 500px;
   margin: 0 auto 0;
 }
+#top-section-for-adding-element-to-list {
+  margin: 1rem auto;
+}
 .task {
   width: 56%;
   display: inline-block;
